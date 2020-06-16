@@ -1,0 +1,11 @@
+framework module ZYWebGameKit {
+  umbrella header "ZYWebGameKit.h"
+
+  export *
+  module * { export * }
+}
+
+module ZYWebGameKit.Swift {
+    header "ZYWebGameKit-Swift.h"
+    requires objc
+}
