@@ -290,7 +290,7 @@ SWIFT_CLASS_NAMED("ZYWebGameKit")
 ///
 /// returns:
 /// –
-+ (void)switchUserWithSuccess:(void (^ _Nonnull)(void))success fail:(void (^ _Nonnull)(void))fail;
++ (void)switchUserWithSuccess:(void (^ _Nonnull)(void))success fail:(void (^ _Nonnull)(void))fail SWIFT_DEPRECATED_MSG("接口已经废弃，请不要再使用");
 /// 游戏主动调退出
 /// \param success 登出成功
 ///
@@ -695,7 +695,7 @@ SWIFT_CLASS_NAMED("ZYWebGameKit")
 ///
 /// returns:
 /// –
-+ (void)switchUserWithSuccess:(void (^ _Nonnull)(void))success fail:(void (^ _Nonnull)(void))fail;
++ (void)switchUserWithSuccess:(void (^ _Nonnull)(void))success fail:(void (^ _Nonnull)(void))fail SWIFT_DEPRECATED_MSG("接口已经废弃，请不要再使用");
 /// 游戏主动调退出
 /// \param success 登出成功
 ///
