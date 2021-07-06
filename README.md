@@ -1,3 +1,11 @@
+# ZYGameKit-swift
+
+[![CI Status](http://img.shields.io/travis/amayne/.svg?style=flat)](https://travis-ci.org/amayne/ZYGameKit-swift)
+[![Version](https://img.shields.io/cocoapods/v/ZYGameKit-swift.svg?style=flat)](http://cocoapods.org/pods/ZYGameKit-swift)
+[![License](https://img.shields.io/cocoapods/l/ZYGameKit-swift.svg?style=flat)](http://cocoapods.org/pods/ZYGameKit-swift)
+[![Platform](https://img.shields.io/cocoapods/p/ZYGameKit-swift.svg?style=flat)](http://cocoapods.org/pods/ZYGameKit-swift)
+[![Swift-5.0](http://img.shields.io/badge/Swift-5.0-blue.svg)]()
+
 ## 1.2.1-------------------------20210108
 - 1，登录逻辑修改；
 - 2，修复已知bug；
